@@ -1,6 +1,6 @@
 # The Growth Mindset
 
-From the top of mu head i think this principle is a must to have to any web developer because as a web developer theree is no ending for learning always theres something new in whatever language you chose to be a programmer at there is no end point for new technologies and new ideas so evrey web developer should have a growth mindset.
+From the top of my head i think this principle is a must to have to any web developer because as a web developer theree is no ending for learning always theres something new in whatever language you chose to be a programmer at there is no end point for new technologies and new ideas so evrey web developer should have a growth mindset.
 
 ## Things i want to learn
 
