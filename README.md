@@ -1,8 +1,13 @@
 # reading-notes
 
+>- This is a repo to help me  keep track of my observations and questions from the reading assignments throughout this courses.
+
+## Code 102 - Intro to Software Development
+## Code 201 - Foundations of Software Development
+## Code 301 - Intermediate Software Development
 ## Code 401 - Advanced Software Development
 
->- This is a repo to help me  keep track of my observations and questions from the reading assignments throughout this course.
+
 
 | Resourses                   |      Summary      |                                   Some Notes |
 | :-------------------------- | :---------------: | -------------------------------------------: |
