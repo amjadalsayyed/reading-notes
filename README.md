@@ -2,6 +2,8 @@
 
 ## Code 401 - Advanced Software Development
 
+> This is a repo to help me  keep track of my observations and questions from the reading assignments throughout this course.
+
 | Resourses                   |      Summary      |                                   Some Notes |
 | :-------------------------- | :---------------: | -------------------------------------------: |
 | e-book, Learn SQL,          |   intro to sql    |                        [SQL](./prep1/SQL.md) |
