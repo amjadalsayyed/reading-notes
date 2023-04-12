@@ -21,3 +21,4 @@
 | Class 2                     | Important topics  |               [Class-2](./Class-2/reading.md) |
 | Class 3                     | Important topics  |               [Class-3](./Class-3/reading.md) |
 | Class 4                     | Important topics  |               [Class-4](./Class-4/reading.md) |
+| Linked list                 | Important topics  |       [Linked-list](./linked-list/reading.md) |
