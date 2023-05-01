@@ -22,4 +22,5 @@
 | Class 3                     | Important topics  |               [Class-3](./Class-3/reading.md) |
 | Class 4                     | Important topics  |               [Class-4](./Class-4/reading.md) |
 | Linked list                 | Important topics  |       [Linked-list](./linked-list/reading.md) |
-| Linked list                 | Important topics  |               [class-8](./Class-8/reading.md) |
+| List Comprehensions         | Important topics  |               [class-8](./Class-8/reading.md) |
+| Dunder methods              | Important topics  |               [class-9](./Class-9/reading.md) |
