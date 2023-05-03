@@ -24,3 +24,4 @@
 | Linked list                 | Important topics  |       [Linked-list](./linked-list/reading.md) |
 | List Comprehensions         | Important topics  |               [class-8](./Class-8/reading.md) |
 | Dunder methods              | Important topics  |               [class-9](./Class-9/reading.md) |
+| Stacks and queues           | Important topics  |             [class-10](./Class-10/reading.md) |
