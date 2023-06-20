@@ -25,3 +25,5 @@
 | List Comprehensions         | Important topics  |               [class-8](./Class-8/reading.md) |
 | Dunder methods              | Important topics  |               [class-9](./Class-9/reading.md) |
 | Stacks and queues           | Important topics  |             [class-10](./Class-10/reading.md) |
+| CRUD                        | Important topics  |             [class-28](./Class-28/reading.md) |
+| Django x                    | Important topics  |             [class-29](./Class-29/reading.md) |
