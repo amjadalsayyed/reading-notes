@@ -28,3 +28,4 @@
 | CRUD                        | Important topics  |             [class-28](./Class-28/reading.md) |
 | Django x                    | Important topics  |             [class-29](./Class-29/reading.md) |
 | Class 32                    | Important topics  |             [class-32](./Class-32/reading.md) |
+| Class 33                    | Important topics  |             [class-33](./Class-33/reading.md) |
