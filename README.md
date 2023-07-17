@@ -32,3 +32,4 @@
 | Class 34                    | Important topics  |             [class-34](./Class-34/reading.md) |
 | Graph                       | Important topics  |                   [graph](./Graph/reading.md) |
 | Class 36                    | Important topics  |             [Class 36](./Class-36/reading.md) |
+| Class 37                    | Important topics  |             [Class 37](./Class-37/reading.md) |
