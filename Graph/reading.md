@@ -33,7 +33,3 @@ Graphs have many different properties. Some of the most common ones are: connect
 ## Graph Types
 
 Graphs can be classified into many different types. Some of the most common ones are: directed graphs, undirected graphs, and weighted graphs. Directed graphs are graphs that have directed edges. Undirected graphs are graphs that have undirected edges. Weighted graphs are graphs that have weighted edges.
-
-## Things I want to learn more about?
-
-I want to learn more about graph algorithms.
